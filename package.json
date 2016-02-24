@@ -1,0 +1,16 @@
+{
+  "name": "build-src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test",
+    "deploy": "node deploy",
+    "test-suite-1": "node test-suite-1",
+    "test-suite-2-a": "node test-suite-2-a",
+    "test-suite-2-b": "node test-suite-2-b"
+  },
+  "author": "",
+  "license": "ISC"
+}
